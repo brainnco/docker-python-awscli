@@ -1,4 +1,4 @@
-FROM docker:20.10.2
+FROM docker:19.03.11
 
 # Copied from https://github.com/docker-library/python/blob/2d63cd17c78a868e35479463b8470c0eb3a30096/3.8/alpine3.12/Dockerfile
 
