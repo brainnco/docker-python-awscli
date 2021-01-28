@@ -135,3 +135,4 @@ RUN set -ex; \
 	rm -f get-pip.py
 
 RUN pip3 install awscli --upgrade
+RUN apk add --no-cache zip
